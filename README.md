@@ -1,11 +1,24 @@
-# Santiago Guzmán Castaño
-## --Ingeniero de Sistemas Junior--
-- 🧑‍🎓 Soy un estudiante de ingeniería de sistemas apasionado por la programación. Mis intereses son el Frontend y Python.
-- Tengo conocimiento Intermedio-Avanzado en Python y actualmente estoy aprendiendo HTML y CSS para prontamente empezar a trabajar... (si dios quiere :( )
+<h1 align="center">
+  <img src="bannerSGC.jpg" alt="Santiago Guzman" />
+</h1>
 
-- Número de teléfono: +57 3215958620
+<p align="center">
+  <img src="pfpsg.jpg" width="250">
+</p>
+
+
+## Bienvenido! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRrZnc4c2plN212bXMwNG1oeGZrY2plZXRwNDlnODF2dHZsbXV6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif" width="40">
+
+
+- 🧑‍🎓 Soy un estudiante de ingeniería de sistemas junior apasionado por la programación. Mis intereses son el Frontend y Python.
+- 💻Tengo conocimiento Intermedio-Avanzado en Python y actualmente estoy aprendiendo HTML y CSS para prontamente empezar a trabajar... (si dios quiere :( )
+
+## Contacto
+
+- 📱+57 3215958620
 - [Instagram](https://www.instagram.com/sntgzmn)
-<img src="pfpsg.jpg" width="200">
+- [![Instagram Badge](https://img.shields.io/badge/-sntgzmn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sntgzmn/)](https://instagram.com/sntgzmn)
+
 
 
 ## Tecnologías
