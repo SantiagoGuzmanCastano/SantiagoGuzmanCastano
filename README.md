@@ -1,11 +1,10 @@
 <h1 align="center">
-  <img src="bannerSGC.jpg" alt="Santiago Guzman" />
-  <p align="right">
-  <img src="pfpsg.jpg" width="250">
-  </p>
+  <img src="bannerSGC.jpg" alt="Santiago Guzman"/>
 </h1>
 
-
+<p align="center">
+    <img src="pfpsg.jpg" width="250">
+  </p>
 
 
 ## &nbsp;Welcome! <img src="wave.gif" width="40">
