@@ -55,6 +55,8 @@
 </a>
 </p>
 
+![SantiagoGuzmanCastano's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantiagoGuzmanCastano&theme=algolia&hide_border=false)
+
 ![GitHub followers](https://img.shields.io/github/followers/SantiagoGuzmanCastano?style=social)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO)
