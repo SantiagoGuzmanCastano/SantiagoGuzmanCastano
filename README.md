@@ -3,9 +3,12 @@
 </h1>
 
 <p align="center">
-    <img src="pfpsg.jpg" width="250">
+  <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=550&height=80&backgroundOpacity=0&lines=%5B%7B%22text%22%3A%22Hi%F0%9F%91%8B%2C+I%27m+Santiago%21%22%2C%22font%22%3A%22Ubuntu%22%2C%22color%22%3A%22%230194dd%22%2C%22letterSpacing%22%3A%220.05em%22%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.04%2C%22fontWeight%22%3A%22bolder%22%7D%2C%7B%22text%22%3A%22Software+Engineering+Student+%F0%9F%92%BB%22%2C%22font%22%3A%22Ubuntu%22%2C%22color%22%3A%22%230194dd%22%2C%22letterSpacing%22%3A%220.05em%22%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.04%2C%22fontWeight%22%3A%22bolder%22%7D%5D" alt="Typing SVG" /></a>
   </p>
 
+<p align="center">
+  <img src="pfpsg.jpg" width="250">
+</p>
 
 ## &nbsp;Welcome! <img src="wave.gif" width="40">
 
