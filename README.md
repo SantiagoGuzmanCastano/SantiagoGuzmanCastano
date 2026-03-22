@@ -8,11 +8,11 @@
 ## Welcome! <img src="wave.gif" width="40">
 
 - 🧑‍🎓 I am a Systems Engineering student focused on growing as a developer and building solutions that make an impact.
-- 💡 I’m passionate about programming...
-- 💻 I have an intermediate–advanced level in Python, HTML and CSS...
-- 🎨 I also have a strong sense for design...
-- 📈 I’m constantly learning...
-- 🌟 My goal is to start working in the tech industry...
+- 💡 I’m really passionate about programming.
+- 💻 I have an intermediate level in Python, HTML, and CSS, and a beginner level in JavaScript.
+- 🎨 I also have a strong sense for design :)
+- 📈 I’m constantly learning!
+- 🌟 My goal is to start working in the tech industry.
 
     </td>
     <td>
