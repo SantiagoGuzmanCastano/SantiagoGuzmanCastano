@@ -2,10 +2,6 @@
 
 <br>
 
-<table>
-  <tr>
-    <td>
-
 ## Welcome! <img src="wave.gif" width="40">
 
 - 🧑‍🎓 I am a Systems Engineering student focused on growing as a developer and building solutions that make an impact.
@@ -15,14 +11,6 @@
 - 🎨 I also have a strong sense for design :)
 - 📈 I’m constantly learning!
 - 🎯 Goal: Work in tech and grow as a developer  
-
-    </td>
-    <td>
-      <img src="pfpsg.jpg" width="250">
-    </td>
-  </tr>
-</table>
-
 
 
 <br>
