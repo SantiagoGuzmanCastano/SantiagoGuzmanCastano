@@ -5,7 +5,7 @@
 ## Welcome! <img src="wave.gif" width="40">
 
 - 🏫 Studying at [Universidad de la Costa CUC](https://www.cuc.edu.co/).
-- 💻 Python.
+- 💻 Python · FastAPI · PostgreSQL · SQLAlchemy · Docker · Pytest 
 - 💡 Focused on building solutions that make an impact.
 - 📈 Constantly learning and growing as a developer.
 - 🎯 Goal: Work in tech and contribute to meaningful projects.
